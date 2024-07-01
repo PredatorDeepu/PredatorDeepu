@@ -1,5 +1,5 @@
--i am preadtordeepu
--currently learning random shit
--self proclaimed frontend dev
--that's all
--fuck github
+-i am preadtordeepu  
+-currently learning random shit  
+-self proclaimed frontend dev  
+-that's all  
+-fuck github  
